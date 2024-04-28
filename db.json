@@ -16,16 +16,16 @@
   "previousApply": [
     {
       "id": "16b6",
-      "name": "박효빈",
-      "studentId": "20190989",
+      "name": "박산경",
+      "studentId": "20190000",
       "phoneNumber": "01012341234",
-      "email": "12341234",
-      "bank": "12314",
-      "accountNumber": "1234",
-      "selectedDepartment": "반도체공학과",
+      "email": "ime.park@postech.ac.kr",
+      "bank": "포항은행",
+      "accountNumber": "05427912341234",
+      "selectedDepartment": "산업경영공학과",
       "selectedSex": "남자",
       "selectedApplyType": "일반청구",
-      "selectedDegree": "석사"
+      "selectedDegree": "학사"
     }
   ],
   "applyItem": [
